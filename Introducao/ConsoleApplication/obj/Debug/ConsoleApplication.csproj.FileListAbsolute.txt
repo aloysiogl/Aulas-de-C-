@@ -1,0 +1,14 @@
+c:\users\aloysio\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+c:\users\aloysio\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+c:\users\aloysio\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+c:\users\aloysio\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+c:\users\aloysio\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\aloys\Google Drive\Documentos\Treinamento C#\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\aloys\Google Drive\Documentos\Treinamento C#\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\aloys\Google Drive\Documentos\Treinamento C#\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\aloys\Google Drive\Documentos\Treinamento C#\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\aloys\Google Drive\Documentos\Treinamento C#\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\aloys\Google Drive\Documentos\Treinamento C#\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\aloys\Desktop\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\aloys\Desktop\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\aloys\Desktop\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
