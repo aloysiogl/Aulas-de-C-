@@ -1,0 +1,6 @@
+C:\Users\aloys\OneDrive\Documentos\Aula CSharp\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\aloys\OneDrive\Documentos\Aula CSharp\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\aloys\OneDrive\Documentos\Aula CSharp\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\aloys\OneDrive\Documentos\Aula CSharp\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\aloys\OneDrive\Documentos\Aula CSharp\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\aloys\OneDrive\Documentos\Aula CSharp\Snake\Snake\obj\Debug\Snake.pdb

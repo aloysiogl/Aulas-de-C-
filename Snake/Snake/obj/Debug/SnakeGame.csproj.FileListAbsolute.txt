@@ -1,0 +1,2 @@
+C:\Users\aloys\OneDrive\Documentos\Aula CSharp\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\aloys\OneDrive\Documentos\Aula CSharp\Snake\Snake\obj\Debug\Snake.pdb
