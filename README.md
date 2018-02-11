@@ -8,4 +8,6 @@ O objetivo desse curso é introduzir a linguagem de programação C#, bem como o
 
 Esse curso foi desenvolvido para os alunos da turma 2021 do ITA. A esses alunos foi introduzida a liguagem de programação C e alguns elementos de C++. O C# será utilizado no desenvolvimento de jogos por meio da engine Unity, logo esse curso é recomendado para quem tem experiência em alguma linguagem tipo C e gostaria de uma intrudição rápida a C# e POO.
 
-OBS.: Recomenda-se a utilização do Visual Studio 2015 ou 2017 para abrir os projetos.
+OBS1.: Recomenda-se a utilização do Visual Studio 2015 ou 2017 para abrir os projetos.
+
+OBS2.: Aqui é apresentado apenas o código comentado, logo, pode ser necessário algum material de apoio para entender o código.
